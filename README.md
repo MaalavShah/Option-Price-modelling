@@ -32,8 +32,8 @@ When data is fetched from Yahoo Finance API using pandas-datareader, it's cached
 
 ## Project structure  
 In this repository you will find:  
- 
-- option_pricing package - python package where models are implemented.  
+- demonstartion package - .gifs files for visualisation of each option pricing model. 
+- models package - python package where models are implemented.  
 - option_pricing_test.py script - example code for testing option pricing models (without webapp).  
 - streamlit_app.py script - web app for testing models using streamlit library.   
 - Requirements.txt file - python pip package requirements.  
