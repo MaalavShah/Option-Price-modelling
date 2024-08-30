@@ -21,13 +21,13 @@ When data is fetched from Yahoo Finance API using pandas-datareader, it's cached
 ## Streamlit web app  
 
 1. Black-Scholes model    
-![black-scholes-demo](./demo/streamlit-BlackScholes.gif)
+![black-scholes-demo](./demonstration/streamlit-BlackScholes.gif)
 
 2. Monte Carlo Option Pricing  
-![monte-carlo-demo](./demo/streamlit-MonteCarlo.gif)
+![monte-carlo-demo](./demonstration/streamlit-MonteCarlo.gif)
 
 3. Binomial model    
-![binomial-tree-demo](./demo/streamlit-BinomialTree.gif)
+![binomial-tree-demo](./demonstration/streamlit-BinomialTree.gif)
 
 
 ## Project structure  
